@@ -8,9 +8,9 @@
 
 ---
 
-## Game Framework 简介
+## Game Framework Overview
 
-Game Framework 是一个基于 Unity 引擎的游戏框架，主要对游戏开发过程中常用模块进行了封装，很大程度地规范开发过程、加快开发速度并保证产品质量。
+Game Framework is a game framework based on the Unity engine. It mainly encapsulates commonly used modules in the game development process, largely standardizing the development process, accelerating the development speed, and ensuring product quality.
 
 在最新的 Game Framework 版本中，包含以下 18 个内置模块，后续我们还将开发更多的扩展模块供开发者使用。
 
